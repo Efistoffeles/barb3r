@@ -1,0 +1,17 @@
+{
+  "name": "barb3r",
+  "version": "1.0.0",
+  "description": "Simple website for Barb3r with privacy policy",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "deploy": "firebase deploy",
+    "serve": "firebase serve"
+  },
+  "keywords": ["firebase", "hosting", "website"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^12.0.0"
+  }
+}
